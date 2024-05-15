@@ -21,3 +21,6 @@
 2 Перепишите сборку из задания 1 на declarative в виде кода.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+### *Решение*
+![zadanie2](https://github.com/PochikaevVV/sdvps-materials/blob/main/zadanie2_1.png)
+![zadanie2](https://github.com/PochikaevVV/sdvps-materials/blob/main/zadanie2_2.png)
