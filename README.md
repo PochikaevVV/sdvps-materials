@@ -24,3 +24,14 @@
 ### *Решение*
 ![zadanie2](https://github.com/PochikaevVV/sdvps-materials/blob/main/zadanie2_1.png)
 ![zadanie2](https://github.com/PochikaevVV/sdvps-materials/blob/main/zadanie2_2.png)
+
+### Задание 3
+
+Что нужно сделать:
+
+1    Установите на машину Nexus.
+2    Создайте raw-hosted репозиторий.
+3    Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
+4    Загрузите файл в репозиторий с помощью jenkins.
+
+В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
