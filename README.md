@@ -13,3 +13,11 @@
 ![zadanie1](https://github.com/PochikaevVV/sdvps-materials/blob/main/zadanie1_1.png)
 ![zadanie1](https://github.com/PochikaevVV/sdvps-materials/blob/main/zadanie1_2.png)
 ![zadanie1](https://github.com/PochikaevVV/sdvps-materials/blob/main/zadanie1_3.png)
+
+### Задание 2
+Что нужно сделать:
+
+1 Создайте новый проект pipeline.
+2 Перепишите сборку из задания 1 на declarative в виде кода.
+
+В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
