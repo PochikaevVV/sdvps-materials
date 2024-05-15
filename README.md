@@ -35,3 +35,8 @@
 4    Загрузите файл в репозиторий с помощью jenkins.  
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+### *Решение*
+![zadanie3](https://github.com/PochikaevVV/sdvps-materials/blob/main/zadanie3_1.png)
+![zadanie3](https://github.com/PochikaevVV/sdvps-materials/blob/main/zadanie3_2.png)
+![zadanie3](https://github.com/PochikaevVV/sdvps-materials/blob/main/zadanie3_3.png)
